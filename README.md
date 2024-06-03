@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Surya SUbramani</h1>
 <h3 align="center">A passionate AI Researcher</h3>
 
-- 🔭 I’m currently working on **Deep Voice 3 Based Synthetic Data**
+- 🔭 I’m currently working on **Neural Voice Synthesis**
 
 - 🌱 I’m currently learning **Deep Reinforcement Learning**
 
